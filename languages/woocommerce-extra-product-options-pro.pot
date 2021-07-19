@@ -1,0 +1,304 @@
+# Copyright (C) 2017 WooCommerce Extra Product Options Pro
+# This file is distributed under the same license as the WooCommerce Extra Product Options Pro package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Extra Product Options Pro 2.1.7\n"
+"Report-Msgid-Bugs-To: support@themehigh.com\n"
+"POT-Creation-Date: 2017-06-27 23:23+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+
+msgid "WooCommerce Extra Product Options"
+msgstr ""
+
+msgid "WooCommerce Extra Product Options Pro"
+msgstr ""
+
+msgid "Documentation"
+msgstr ""
+
+msgid "Dismiss"
+msgstr ""
+
+msgid "Design woocommerce Product form in your own way, customize Product fields(Add, Edit, Delete and re arrange fields)."
+msgstr ""
+
+msgid "Extra Product Option"
+msgstr ""
+
+msgid "Product Options"
+msgstr ""
+
+msgid "Add new section"
+msgstr ""
+
+msgid "Delete Section"
+msgstr ""
+
+msgid "Edit Section"
+msgstr ""
+
+msgid "+ Add field"
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Enable"
+msgstr ""
+
+msgid "Disable"
+msgstr ""
+
+msgid "Save changes"
+msgstr ""
+
+msgid "Reset to default fields"
+msgstr ""
+
+msgid "Your changes were not saved due to an error (or you made none!)."
+msgstr ""
+
+msgid "Your changes were not saved due to no fields found."
+msgstr ""
+
+msgid "Your changes were saved."
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Type"
+msgstr ""
+
+msgid "Label"
+msgstr ""
+
+msgid "Placeholder"
+msgstr ""
+
+msgid "Validation Rules"
+msgstr ""
+
+msgid "Required"
+msgstr ""
+
+msgid "Enabled"
+msgstr ""
+
+msgid "Edit"
+msgstr ""
+
+msgid "Create New Section"
+msgstr ""
+
+msgid "New section added successfully."
+msgstr ""
+
+msgid "New section not added due to an error."
+msgstr ""
+
+msgid "Section details updated successfully."
+msgstr ""
+
+msgid "Section details not updated due to an error."
+msgstr ""
+
+msgid "Section removed successfully."
+msgstr ""
+
+msgid "Section not removed due to an error."
+msgstr ""
+
+msgid "Name/ID"
+msgstr ""
+
+msgid "Display Position"
+msgstr ""
+
+msgid "CSS Class"
+msgstr ""
+
+msgid "Show section title in product page."
+msgstr ""
+
+msgid "Title"
+msgstr ""
+
+msgid "Title Position"
+msgstr ""
+
+msgid "Title Type"
+msgstr ""
+
+msgid "Title Color"
+msgstr ""
+
+msgid "Title Class"
+msgstr ""
+
+msgid "Subtitle"
+msgstr ""
+
+msgid "Subtitle Type"
+msgstr ""
+
+msgid "Subtitle Color"
+msgstr ""
+
+msgid "Subtitle Class"
+msgstr ""
+
+msgid "Add subtitle"
+msgstr ""
+
+msgid "Before Add To Cart Button"
+msgstr ""
+
+msgid "After Add To Cart Button"
+msgstr ""
+
+msgid "New Product Field"
+msgstr ""
+
+msgid "General Properties"
+msgstr ""
+
+msgid "Conditional Rules"
+msgstr ""
+
+msgid "Field Type"
+msgstr ""
+
+msgid "Default Value"
+msgstr ""
+
+msgid "Validation"
+msgstr ""
+
+msgid "Price"
+msgstr ""
+
+msgid "Unit"
+msgstr ""
+
+msgid "Price Type"
+msgstr ""
+
+msgid "Min. Length"
+msgstr ""
+
+msgid "Max. Length"
+msgstr ""
+
+msgid "Default Date"
+msgstr ""
+
+msgid "Date Format"
+msgstr ""
+
+msgid "Min. Date"
+msgstr ""
+
+msgid "Max. Date"
+msgstr ""
+
+msgid "Year Range"
+msgstr ""
+
+msgid "Number Of Months"
+msgstr ""
+
+msgid "Disabled Days"
+msgstr ""
+
+msgid "Disabled Dates"
+msgstr ""
+
+msgid "Leave empty for today's date"
+msgstr ""
+
+msgid "The minimum selectable date"
+msgstr ""
+
+msgid "The maximum selectable date"
+msgstr ""
+
+msgid "Select days to disable"
+msgstr ""
+
+msgid "Seperate dates with comma"
+msgstr ""
+
+msgid "Min. Time"
+msgstr ""
+
+msgid "Max. Time"
+msgstr ""
+
+msgid "Time Step"
+msgstr ""
+
+msgid "Time Format"
+msgstr ""
+
+msgid "Specify a date in the current dateFormat, or number of days from today (e.g. +7) or a string of values and periods ('y' for years, 'm' for months, 'w' for weeks, 'd' for days, e.g. '+1m +7d'), or leave empty for today."
+msgstr ""
+
+msgid "The format for parsed and displayed dates."
+msgstr ""
+
+msgid "The minimum selectable date. Specify a date in the current dateFormat, or number of days from today (e.g. -7) or a string of values and periods ('y' for years, 'm' for months, 'w' for weeks, 'd' for days, e.g. '-1m -7d'), or leave empty for no minimum limit."
+msgstr ""
+
+msgid "The maximum selectable date. Specify a date in the current dateFormat, or number of days from today (e.g. +7) or a string of values and periods ('y' for years, 'm' for months, 'w' for weeks, 'd' for days, e.g. '+1m +7d'), or leave empty for no maximum limit."
+msgstr ""
+
+msgid "The range of years displayed in the year drop-down: either relative to today's year ('-nn:+nn' e.g. -5:+3), relative to the currently selected year ('c-nn:c+nn' e.g. c-10:c+10), absolute ('nnnn:nnnn' e.g. 2002:2012), or combinations of these formats ('nnnn:+nn' e.g. 2002:+3). Note that this option only affects what appears in the drop-down, to restrict which dates may be selected use the minDate and/or maxDate options."
+msgstr ""
+
+msgid "The number of months to show at once"
+msgstr ""
+
+msgid "Specify dates in yyyy-mm-dd format separated by comma."
+msgstr ""
+
+msgid "Show"
+msgstr ""
+
+msgid "Hide"
+msgstr ""
+
+msgid "field if all below conditions are met."
+msgstr ""
+
+msgid "Product"
+msgstr ""
+
+msgid "Category"
+msgstr ""
+
+msgid "Equals to/ In"
+msgstr ""
+
+msgid "Not Equals to/ Not in"
+msgstr ""
+
+msgid "AND"
+msgstr ""
+
+msgid "OR"
+msgstr ""
+
+msgid "(%s) is not a valid number."
+msgstr ""
+
+msgid "(%s) is not a valid email address."
+msgstr ""
+
+msgid "Please enter a value for %s"
+msgstr ""
